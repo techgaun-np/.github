@@ -10,5 +10,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-🙋‍♀️ - We provide custom software development and consulting services. We build [open source softwares](https://github.com/build-for-nepal) and also build our products such as Banshawali (Ancestree) and Linkbase (Ramro.link)  
+🙋‍♀️ - We provide custom software development and consulting services. We build [open source softwares](https://github.com/build-for-nepal) and also are currently building our products: Banshawali (Ancestree) and Ramro.link (a powerful yet simple link platform) and are going to release beta versions in April/May  
 👩‍💻 - Check out our [website](https://techgaun.com/), we are [hiring constantly](https://techgaun.com/careers) and check out our [devtools](https://devtools.techgaun.com/)  
